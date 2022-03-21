@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pokharkar Rushikesh</h1>
 <h3 align="center">A passionate coder from India.</h3>
 
-- 🔭 I’m currently working on **to improve my communication skills.**
-
 - 🌱 I’m currently learning **Java.**
 
 - 👯 I’m looking to collaborate on **Real World Projects.**
+
+- 🔭 I’m currently working on **to improve my communication skills.**
 
 - 📫 How to reach me **rushikeshpokharkar2001@gmail.com**
 
